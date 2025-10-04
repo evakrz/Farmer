@@ -89,4 +89,4 @@ def AutoDinos(max_value):
 					change_hat(Hats.Straw_Hat)
 					move_to_pos(0,1)
 					change_hat(Hats.Dinosaur_Hat)
-AutoDinos(14000)
+AutoDinos(14000000)
